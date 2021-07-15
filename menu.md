@@ -1,6 +1,6 @@
 # menu
 
--[pizza](./recipes/pizza.md)
+- [pizza](./recipes/pizza.md)
 
 ## drinks
 
